@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/mahajialirezaei/namatube-frontend.git
-[submodule "namatube-frontend"]
-	path = namatube-frontend
-	url = https://github.com/mahajialirezaei/namatube-frontend.git
+	url = https://github.com/mahajialirezaei/Namafront.git
+[submodule "NamaFront"]
+	path = NamaFront
+	url = https://github.com/mahajialirezaei/NamaFront.git
